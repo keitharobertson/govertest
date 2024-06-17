@@ -1,3 +1,3 @@
-module github.com/keitharobertson/govertest/v2
+module github.com/keitharobertson/govertest
 
 go 1.22.1
