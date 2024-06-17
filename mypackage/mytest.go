@@ -1,4 +1,4 @@
-package govertest
+package mypackage
 
 import "fmt"
 
