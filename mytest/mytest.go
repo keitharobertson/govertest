@@ -2,8 +2,7 @@ package mytest
 
 import "fmt"
 
-func MyVersionedFunc(str string, str2 string) {
+func MyVersionedFunc(str string) {
   fmt.Println(str)
-  fmt.Println(str2)
 }
 
