@@ -2,7 +2,7 @@ package govertest
 
 import "fmt"
 
-func my_func(str string) {
+func MyVersionedFunc(str string) {
   fmt.Println(str)
 }
 
